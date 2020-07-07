@@ -102,7 +102,7 @@ def Tool():
 				print(W+'[ '+A+'Not Found'+W+' ]'+C+' Username : '+W+Username+C+' Password : '+W+Password)
 
 	except ConnectionError:
-		print(M+'Cek Jaringan Bro !')
+		print(M+'connection error !')
 		sys.exit()
 	
 	except IOError:
@@ -141,7 +141,7 @@ def Log_In():
 	
 	elif not pwd.upper() == password:
 		print
-		print(M+'Password Salah \xE2\x9C\x96')
+		print(M+'Password  \xE2\x9C\x96')
 		sys.exit()
 		
 def lovehacker():
