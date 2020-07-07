@@ -35,7 +35,7 @@ ____  _            _    __  __        __ _
   | || '_ \/ __| __/ _` | |  _ \| '__| | | | __/ _ \\
   | || | | \__ \ || (_| | | |_) | |  | |_| | ||  __/
  |___|_| |_|___/\__\__,_| |____/|_|   \__,_|\__\___|
-                '''+W+'Creator : ./lovehacker\n\t\t   YT : BlackMafia')
+                '''+W+'Creator : lovehacker\n\t\t   : BlackMafia')
                 
 def Tool():
 	os.system('clear')
@@ -44,8 +44,8 @@ def Tool():
 	print
 	try:
 	
-		Username = raw_input(W+'Username Target : '+C+'')
-		List_Pass = raw_input(W+'List Password : '+C+'')
+		Username = raw_input(W+'Username Target       : '+C+'')
+		List_Pass = raw_input(W+'Type>(Wordlist.txt)  : '+C+'')
 		print
 		BlackMafia(''+C+'-------------- '+W+'Starting'+C+' --------------')
 		print
@@ -155,7 +155,7 @@ def lovehacker():
 	print
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	print
-	Choose = input(W+'Pilih -> '+C+'')
+	Choose = input(W+'select -> '+C+'')
 
 	if Choose == 1:
 		Tool()
