@@ -158,7 +158,7 @@ def lovehacker():
 	Choose = input(W+'Pilih -> '+C+'')
 
 	if Choose == 1:
-		Log_In()
+		Tool()
 
 	elif Choose == 2:
 		print
