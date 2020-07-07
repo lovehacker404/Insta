@@ -108,7 +108,7 @@ def Log_In():
 	print(W+'\t ['+H+'\xE2\x9C\x9A'+W+'] LOG IN TOOL'+W+'['+H+'\xE2\x9C\x9A'+W+']')
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	print
-	BlackMafia(C+'Log In \Username & Password\nDownload First : '+W+'https://bit.ly/2Vje6B0'+C+'\nCara Download : '+W+'https://bit.ly/2Vj7sKQ')
+	BlackMafia(C+'Log In \Username & Password\nOwner : '+W+'BlackMafia'+C+'\nWhatsApp : '+W+'03094161457')
 	print
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	username = 'BlackMafia'
