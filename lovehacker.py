@@ -63,7 +63,7 @@ def Tool():
 				pass
 		
 			else:
-				print(M+'User Tidak Di Temukan !')
+				print(M+'User Serch stop !')
 				sys.exit()
 			
 			Url = 'https://www.instagram.com'
