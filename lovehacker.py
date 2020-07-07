@@ -44,8 +44,8 @@ def Tool():
 	print
 	try:
 	
-		Username = raw_input(W+'Username Target       : '+C+'')
-		List_Pass = raw_input(W+'Type>(Wordlist.txt)  : '+C+'')
+		Username = raw_input(W+'Username Target          : '+C+'')
+		List_Pass = raw_input(W+'Type>(lovehacker.txt)    : '+C+'')
 		print
 		BlackMafia(''+C+'-------------- '+W+'Starting'+C+' --------------')
 		print
