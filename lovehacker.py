@@ -44,8 +44,8 @@ def Tool():
 	print
 	try:
 	
-		Username = raw_input(W+'Username Target          : '+C+'')
-		List_Pass = raw_input(W+'Type>(lovehacker.txt)    : '+C+'')
+		Username = raw_input(W+'Instagram Target Username: '+C+'')
+		List_Pass = raw_input(W+'Type> (BlackMafia.txt)   : '+C+'')
 		print
 		BlackMafia(''+C+'-------------- '+W+'Starting'+C+' --------------')
 		print
@@ -158,7 +158,7 @@ def lovehacker():
 	Choose = input(W+'select -> '+C+'')
 
 	if Choose == 1:
-		Log_In()
+		lovehacker()
 
 	elif Choose == 2:
 		print
@@ -175,4 +175,4 @@ def lovehacker():
 		lovehacker()
 
 if __name__ == '__main__':
-	Log_In()
+	lovehacker()
