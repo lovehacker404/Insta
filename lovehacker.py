@@ -117,8 +117,8 @@ def Log_In():
 	BlackMafia(C+'Log In \Username & Password\nOwner    : '+W+'BlackMafia'+C+'\nWhatsApp : '+W+'03094161457')
 	print
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
-	username = 'BlackMafia'
-	password = 'lovehacker'
+	username = 'lovehacker'
+	password = 'BlackMafia'
 
 	print
 	usr = raw_input(W+'USERNAME : '+C+'')
