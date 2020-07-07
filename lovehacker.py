@@ -149,7 +149,7 @@ def lovehacker():
 	print(W+'   ['+H+'\xE2\x9C\x9A'+W+'] Welcome BlackMafia Tool'+W+'['+H+'\xE2\x9C\x9A'+W+']')
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	print
-        print(W+'['+H+'1'+W+']'+C+' Log In Tools')
+        print(W+'['+H+'1'+W+']'+C+' Start Instagram Hacking')
 	print(W+'['+H+'2'+W+']'+C+' Subscribe Channel BlackMafia')
 	print(W+'['+H+'3'+W+']'+C+' WhatsApp Group')
 	print
@@ -158,7 +158,7 @@ def lovehacker():
 	Choose = input(W+'select -> '+C+'')
 
 	if Choose == 1:
-		Tool()
+		Log_In()
 
 	elif Choose == 2:
 		print
@@ -175,4 +175,4 @@ def lovehacker():
 		lovehacker()
 
 if __name__ == '__main__':
-	lovehacker()
+	Log_In()
