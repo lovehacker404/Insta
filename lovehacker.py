@@ -24,6 +24,12 @@ def BlackMafia(s):
 def Banner():
 	os.system('clear')
 	MesinTik(''+C+'''
+____  _            _    __  __        __ _
+| __ )| | __ _  ___| | _|  \/  | __ _ / _(_) __ _
+|  _ \| |/ _` |/ __| |/ / |\/| |/ _` | |_| |/ _` |
+| |_) | | (_| | (__|   <| |  | | (_| |  _| | (_| |
+|____/|_|\__,_|\___|_|\_\_|  |_|\__,_|_| |_|\__,_|
+
   ___           _          ____             _       
  |_ _|_ __  ___| |_ __ _  | __ ) _ __ _   _| |_ ___ 
   | || '_ \/ __| __/ _` | |  _ \| '__| | | | __/ _ \\
@@ -108,7 +114,7 @@ def Log_In():
 	print(W+'\t ['+H+'\xE2\x9C\x9A'+W+'] LOG IN TOOL'+W+'['+H+'\xE2\x9C\x9A'+W+']')
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	print
-	BlackMafia(C+'Log In \Username & Password\nOwner : '+W+'BlackMafia'+C+'\nWhatsApp : '+W+'03094161457')
+	BlackMafia(C+'Log In \Username & Password\nOwner    : '+W+'BlackMafia'+C+'\nWhatsApp : '+W+'03094161457')
 	print
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	username = 'BlackMafia'
