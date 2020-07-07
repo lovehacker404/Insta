@@ -23,7 +23,7 @@ def BlackMafia(s):
 		
 def Banner():
 	os.system('clear')
-	MesinTik(''+C+'''
+	BlackMafia(''+C+'''
 ____  _            _    __  __        __ _
 | __ )| | __ _  ___| | _|  \/  | __ _ / _(_) __ _
 |  _ \| |/ _` |/ __| |/ / |\/| |/ _` | |_| |/ _` |
