@@ -158,7 +158,7 @@ def lovehacker():
 	Choose = input(W+'select -> '+C+'')
 
 	if Choose == 1:
-		lovehacker()
+		Tool()
 
 	elif Choose == 2:
 		print
